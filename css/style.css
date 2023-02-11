@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,700&display=swap');
         
         body{
             /* background-color:rgb(228, 202, 168); */
@@ -13,6 +13,7 @@
         }
         .tea-menu{
             width: 80%;
+            max-width: 500px;
             background-color: rgba(228, 202, 168, 0.397);
             /* background-color: orangered; */
             margin-left: auto;
