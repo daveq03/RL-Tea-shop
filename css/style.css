@@ -25,13 +25,14 @@
             display: inline-block;
             
         }
-        .tea-flavor{
+        .tea-flavor, .collection-flavor{
             width: 75%;
             background-color: green;
             text-align: left;
         }
-        .tea-price{
+        .tea-price, .collection-price{
             width: 25%;
             background-color: yellow;
             text-align: right;
         }
+    
