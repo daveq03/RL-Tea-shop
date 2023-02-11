@@ -25,6 +25,12 @@
 -webkit-box-shadow: -90px 66px 0px -5px rgba(0,0,0,0.75);
 -moz-box-shadow: -90px 66px 0px -5px rgba(0,0,0,0.75);
         }
+        .top-line{
+            margin-top: 25px;
+        }
+        .bottom-line{
+            margin-top: 25px;
+        }
 
 
         .tea-menu{
