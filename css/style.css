@@ -15,16 +15,21 @@
             /* background-color: orangered; */
             margin-left: auto;
             margin-right: auto;
-            color: white;
+            /* color: white; */
         }
-        .tea-items{
-            background-color: orange;
+        .tea-items p{
+
+            /* background-color: orange; */
             display: inline-block;
             
         }
         .tea-flavor{
+            width: 50%;
+            background-color: green;
             text-align: left;
         }
         .tea-price{
+            width: 50%;
+            background-color: yellow;
             text-align: right;
         }
