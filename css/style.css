@@ -51,6 +51,17 @@
         .establish{
             font-style: italic;
         }
+        .tea-icon{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        img{
+            width: 50px;
+            height: 50px;
+            margin: auto 5px;
+            
+        }
         .tea-items p{
 
             /* background-color: orange; */
