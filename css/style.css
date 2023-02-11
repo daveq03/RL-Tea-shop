@@ -10,7 +10,7 @@
             background-repeat: no-repeat;
         }
         .tea-menu{
-            width: 300px;
+            width: 80%;
             background-color: rgba(228, 202, 168, 0.473);
             /* background-color: orangered; */
             margin-left: auto;
@@ -20,6 +20,7 @@
         .tea-items{
             background-color: orange;
             display: inline-block;
+            
         }
         .tea-flavor{
             text-align: left;
