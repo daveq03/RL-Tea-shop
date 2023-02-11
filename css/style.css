@@ -17,7 +17,11 @@
         h2{
             font-size: 35px;
         }
+        hr{
+            height: 2px;
+            background-color: rgb(red, green, blue);
 
+        }
 
 
         .tea-menu{
