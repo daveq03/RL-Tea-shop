@@ -25,10 +25,14 @@
             padding-top: 20px; */
             /* color: white; */
         }
+        .establish{
+            font-style: italic;
+        }
         .tea-items p{
 
             /* background-color: orange; */
             display: inline-block;
+            font-weight: 400;
             
         }
         .tea-flavor, .collection-flavor{
