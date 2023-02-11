@@ -21,9 +21,9 @@
         .top-line, .bottom-line{
             height: 2px;
             background-color:rgba(156, 194, 156, 0.699)
-            box-shadow: -45px 45px 0px -6px rgba(0,0,0,0.75);
--webkit-box-shadow: -45px 45px 0px -6px rgba(0,0,0,0.75);
--moz-box-shadow: -45px 45px 0px -6px rgba(0,0,0,0.75);
+            box-shadow: -90px 66px 0px -5px rgba(0,0,0,0.75);
+-webkit-box-shadow: -90px 66px 0px -5px rgba(0,0,0,0.75);
+-moz-box-shadow: -90px 66px 0px -5px rgba(0,0,0,0.75);
         }
 
 
@@ -49,6 +49,7 @@
             /* background-color: orange; */
             display: inline-block;
             font-weight: 400;
+            margin: 5px 0px;
             
         }
         .tea-flavor, .collection-flavor{
