@@ -1,13 +1,15 @@
-
-        h1, h2, p{
-            text-align: center;
-        }
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+        
         body{
             /* background-color:rgb(228, 202, 168); */
             /*text-align: center;*/
             background-image: url(https://images.pexels.com/photos/461428/pexels-photo-461428.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
             background-size: cover;
             background-repeat: no-repeat;
+            font-family: 'Roboto', sans-serif;
+        }
+        h1, h2, p{
+            text-align: center;
         }
         .tea-menu{
             width: 80%;
