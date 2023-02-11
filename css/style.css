@@ -46,12 +46,12 @@
         }
         .tea-flavor, .collection-flavor{
             width: 75%;
-            background-color: green;
+            background-color: rgba(0, 128, 0, 0.363);
             text-align: left;
         }
         .tea-price, .collection-price{
             width: 25%;
-            background-color: yellow;
+            background-color: rgba(255, 255, 0, 0.411);
             text-align: right;
         }
     
