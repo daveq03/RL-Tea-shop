@@ -16,7 +16,10 @@
             margin-left: auto;
             margin-right: auto;
             color: white;
-
+        }
+        .tea-items{
+            background-color: orange;
+            display: inline-block;
         }
         .tea-flavor{
             text-align: left;
