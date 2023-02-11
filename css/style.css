@@ -71,4 +71,17 @@
         footer{
             font-size: 14px;
         }
+        a{
+            color: black;
+        }
+        /* lvha */
+        a:visited{
+            color: white;
+        }
+        a:hover{
+            color: lightgray;
+        }
+        a:active{
+            color: yellow;
+        }
     
